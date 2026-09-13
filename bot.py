@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 # ============================
 # BOT TOKENS
 # ============================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8973986126:AAHh3DidYT9V6N9gG5CYpi3yBtpRYVwRtfM")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8973986126:AAHh3DidYT9V6N9gG5CYpi3yBtpRYVwRtfM)
 OWNER_BOT_TOKEN = os.getenv("OWNER_BOT_TOKEN", "8919120362:AAESIjOGBP9I5JpAw7kYBWGTQjV619CPA-I")
 OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID", "8912251548"))
 
